@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <!-- NÃO ALTERE O BLOCO ABAIXO -->
 <!-- ALERTA:  Qualquer conteúdo dentro desse bloco sera removido, não adicione conteúdo próprio -->
-<div id="ffd8bf74a835993a9361f5a45d4274b5">
+<div id="45b7c04d1e250b5e045f990c3ee8d359">
     <table border="1px" width="300px" align="center">
         <thead align="center">
             <tr>
@@ -25,15 +25,15 @@ Here are some ideas to get you started:
         </thead>
         <tbody align="center">
             <tr>
-                <td width="150px"><h5>Desenvolvimento Seguro (Teste)</h5></td>
-                <td width="150px"><h5>SSDLC na prática (Teste)</h5></td>
-                <td width="150px"><h5>Regulatórios (Teste)</h5></td>
+                <td width="150px"><h5>Desenvolvimento Seguro</h5></td>
+                <td width="150px"><h5>SSDLC na prática</h5></td>
+                <td width="150px"><h5>Regulatórios</h5></td>
                 <td width="150px"><h5>Cloud Sec</h5></td>
                 <td width="150px"><h5>Security Champion</h5></td>
             </tr>
             <tr>
                 <td></td>
-                <td><img src="badges/408630520462.png" width="120px" alt="SSDLC na prática (Teste)"></td>
+                <td><img src="badges/380259620714.png" width="120px" alt="SSDLC na prática"></td>
                 <td></td>
                 <td></td>
                 <td></td>
